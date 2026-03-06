@@ -5,4 +5,4 @@ commitq adadasd
 
 trinhcongson
 Cherry-pick commit sang branch khác
-
+Xóa commit nhưng giữ thay đổi
