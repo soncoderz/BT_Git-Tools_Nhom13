@@ -2,4 +2,7 @@ commitq adadasd
 ấdasdasdaadsasd 
 
 ấdasdasda
+
 trinhcongson
+Cherry-pick commit sang branch khác
+
