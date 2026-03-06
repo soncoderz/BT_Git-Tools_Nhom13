@@ -6,3 +6,5 @@ commitq adadasd
 trinhcongson
 Cherry-pick commit sang branch khác
 Xóa commit nhưng giữ thay đổi
+Xóa commit và đưa thay đổi về unstaged
+Xóa commit và xóa luôn thay đổi code
